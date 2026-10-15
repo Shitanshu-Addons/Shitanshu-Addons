@@ -77,22 +77,21 @@ const shitanshu = {
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Shitanshu-Addons">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shitanshu-Addons&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Shitanshu-Addons GitHub Stats"/>
+<a href="https://github.com/Shitanshu-00">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shitanshu-00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
 </a>
 
-<a href="https://github.com/Shitanshu-Addons">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shitanshu-Addons&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/Shitanshu-00">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shitanshu-00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </a>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Shitanshu-Addons&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Shitanshu-00&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
